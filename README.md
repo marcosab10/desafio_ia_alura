@@ -50,4 +50,5 @@ print(url_encontrada)
 - Implementar paginação para lidar com repositórios grandes com muitos arquivos Markdown.
 - Permitir ao usuário especificar um modelo de embedding diferente.
 - Adicionar uma interface de usuário para facilitar o uso.
-- Possível expandir essa lógica para fazer buscas e analises dos códigos fontes do repositório.
+- Possível expandir essa lógica para fazer buscas e análises dos códigos fontes do repositório,
+  o que é muito interessante.
