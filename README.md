@@ -35,6 +35,8 @@ Este programa em Python busca em um repositório GitHub por arquivos Markdown e 
 # Exemplo de uso
 
 ```python
+model = "models/embedding-001"
+
 df_markdown = get_markdown_files("marcosab10", "ICMC-USP")
 
 consulta = "Ganhar Dinheiro explicado por Kiyosaki"
